@@ -1,0 +1,34 @@
+:root {
+    --text-color:#424242;
+    --primary-color: blue;
+    --secondary-color: white;
+    --main-color:#FFFFFF;
+    --header-height: 140px;
+    --header-height-device:80px;
+    --header-color:#780000;
+    --menu-height:60px;
+    --menu-color:#FFEBD8;
+    --menu-color-hover:#FFDBBD;
+    --footer-height:300px;
+    --footer-color:#DDDDDD;
+    --content-x-pos:200px;
+    --content-x-pos-device:80px;
+    --content-color:#FFFFFF;
+    --slotButton1-color:#D9D9D9;
+    --slotButton2-color:#408632;
+    --spacer-color:#d9d9d9;
+    --item-selected-color:#B00004;
+    --item-selected-top-color:#F9D650;
+    --fecha-sorteo-color:gray;
+    --headerButton1-color:#FF6113;
+    --headerButton2-color:#E20000;
+    --continuar-button-color:#CA3330;
+    --cancelar-button-color:white;
+    --point-color:#9b9b9b;
+    --point-current-color:#CA3330;
+    --point-done-color:#CA3330;
+    --error-initial-pos:-80px;
+    --error-height:80px;
+    --error-color:red;
+    --forgot-password-color:rgb(42, 127, 255);
+}

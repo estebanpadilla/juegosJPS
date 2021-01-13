@@ -1,0 +1,120 @@
+.wzInformacionComponent {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.inputDisabled {
+    background-color: rgb(237, 237, 237);
+}
+
+.idButtonsContainer {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.cedulaButton {
+    width: 50%;
+    color: var(--continuar-button-color);
+    font-size: 16px;
+    font-weight: bold;
+    border: 1px solid var(--continuar-button-color);
+    background-color: var(--cancelar-button-color);
+    padding: 5px 20px 5px 20px;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.dimexButton {
+    width: 50%;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: 1px solid var(--continuar-button-color);
+    background-color: var(--continuar-button-color);
+    padding: 5px 20px 5px 20px;
+    cursor: pointer;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.idButtonSelected {
+    color: white;
+    background-color: var(--continuar-button-color) !important;
+}
+
+.idButtonNotSelected {
+    color: var(--continuar-button-color);
+    background-color: var(--cancelar-button-color) !important;
+}
+
+.cedulaContainer {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.cedula1Txt{
+    color:gray !important;
+}
+
+.cedula2Txt{
+    color:gray !important;
+    -webkit-appearance: none !important;
+    width: 30%;
+    margin-left: 10px;
+}
+
+.cedula3Txt{
+    color:gray !important;
+    width: 30%;
+    margin-left: 10px;
+}
+
+.errorOnCedula {
+    border-color: red;
+}
+
+
+.dimexTxt {
+    width: 80%;
+}
+
+.validarCedulaButton {
+    height: 45px;
+    width: auto;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: 1px solid var(--continuar-button-color);
+    background-color: var(--continuar-button-color);
+    padding: 0px 30px 0px 30px;
+    cursor: pointer;
+    margin-left: 10px;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .cedula1Txt {
+        font-size: 14px !important;
+    }
+
+    .cedula2Txt, .cedula3Txt  {
+        font-size: 14px !important;
+        width: auto;
+        margin-left: 5px;
+    }
+
+    .validarCedulaButton {
+        font-size: 14px;
+        margin-left: 5px;
+    }
+}

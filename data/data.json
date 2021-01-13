@@ -1,0 +1,205 @@
+{
+    "data": {
+        "expirationData": {
+            "days": 3,
+            "hours": 24,
+            "minutes": 60,
+            "seconds": 60
+        },
+        "contentSections": [
+            {
+                "title": "Juegos Digitales",
+                "slots": [
+                    {
+                        "title": "Magic Lamp",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RML.png",
+                        "casinoGameId": 438
+                    },
+                    {
+                        "title": "Gypsy Show",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RGYS.png",
+                        "casinoGameId": 434
+                    },
+                    {
+                        "title": "Sport Challenge",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5ROL.png",
+                        "casinoGameId": 476
+                    },
+                    {
+                        "title": "Vegetable Wars",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RVG.png",
+                        "casinoGameId": 348
+                    },
+                    {
+                        "title": "Tropical Aquarium",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RTA.png",
+                        "casinoGameId": 494
+                    },
+                    {
+                        "title": "Wild West Chicken",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RWW.png",
+                        "casinoGameId": 360
+                    },
+                    {
+                        "title": "Lion's Roar",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RLRO.png",
+                        "casinoGameId": 454
+                    },
+                    {
+                        "title": "King of Cheese",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RKCH.png",
+                        "casinoGameId": 322
+                    }
+                ]
+            },
+            {
+                "title": "Raspas Digitales",
+                "slots": [
+                    {
+                        "title": "Lucky Pets",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RLP.png",
+                        "casinoGameId": 389
+                    },
+                    {
+                        "title": "Happy Hour",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RHH.png",
+                        "casinoGameId": 493
+                    },
+                    {
+                        "title": "Gem Stones",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RGS.png",
+                        "casinoGameId": 394
+                    },
+                    {
+                        "title": "Golf'n Monkeys",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RGM.png",
+                        "casinoGameId": 499
+                    },
+                    {
+                        "title": "Golden Legacy",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RGL.png",
+                        "casinoGameId": 271
+                    },
+                    {
+                        "title": "Fruitastic",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RFT.png",
+                        "casinoGameId": 336
+                    },
+                    {
+                        "title": "Dancing Zombies",
+                        "subtitle1": "Premio Mayor: 50,000,000",
+                        "subtitle2": "Valor de Moneda: 250 - 5,000",
+                        "image": "SL5RDZ.png",
+                        "casinoGameId": 345
+                    }
+                ]
+            },
+            {
+                "title": "Loteria y Chances",
+                "slots": []
+            },
+            {
+                "title": "Billetes Activos",
+                "slots": []
+            },
+            {
+                "title": "Historial",
+                "slots": []
+            },
+            {
+                "title": "Metodos de Pago",
+                "slots": []
+            },
+            {
+                "title": "Header",
+                "logo": "logo.png",
+                "slots": []
+            },
+            {
+                "title": "Próximos Sorteos",
+                "slots": [],
+                "sorteos": [
+                    {
+                        "date": "21 Nov, 2020",
+                        "time": "6:45 PM",
+                        "priceTitle": "Premio Mayor",
+                        "price": "170,000,000",
+                        "image": "loteria.png"
+                    },
+                    {
+                        "date": "23 Nov, 2020",
+                        "time": "6:45 PM",
+                        "priceTitle": "Premio Mayor",
+                        "price": "100,000,000",
+                        "image": "chances.png"
+                    }
+                ],
+                "news": {
+                    "image": "bonos.png"
+                }
+            },
+            {
+                "title": "Crear Cuenta",
+                "slots": []
+            },
+            {
+                "title": "Preguntas Frecuentes",
+                "slots": [],
+                "text": "<h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br>"
+            },
+            {
+                "title": "Terminos y Condiciones",
+                "slots": [],
+                "text": "<h3>1. Consideraciones previa</h3> <br> 1.1 Los términos y condiciones de uso aquí consagrados lo vinculan contractual y legalmente a usted como USUARIO con IMPERIAL GAMES S.A., sociedad anónima, con Número de cédula juríduca 3-101-001-742, con domicilio principal en la ciudad de San José- Costa Rica, Calle 53 No. 45 – 112, piso 3, Edificio Miramar.<br><br> 1.2 El OPERADOR es una persona jurídica autorizada en Costa Rica para ofertar los juegos de suerte y azar de la modalidad juegos operados por internet, según Contrato de Concesión No. C1741 del 5 de junio de 2020 suscrito con la Junta de Protección Social, asignado al dominio del sitio web juegosJPS.cr, luego de haber cumplido con todos los requisitos y condiciones legales, financieras, técnicas y tecnológicas, además de las garantías exigidas para la cobertura del pago de premios y devolución de fondos de los jugadores, demostrando principios de transparencia en la operación de juegos en la jurisdicción costarricense.<br><br>  1.3 Los servicios ofrecidos por el OPERADOR están relacionados con juegos de suerte y azar por internet autorizados por la Junta de Protección Social mediante el contrato de Concesión C1741 del 5 de junio de 2021, a los cuales accede el usuario que se registra correcta y válidamente en el sitio juegosJPS.cr, y apuesta según las reglas particulares de juego establecidas para cada uno de los juegos que se ofertan en la plataforma, además de todas las actividades que permitan al usuario realizar transacciones sobre el juego, transacciones económicas derivadas del mismo, o la mera navegación por el sitio, de acuerdo a la normatividad vigente en Costa Rica sobre juegos operados por internet.<br><br> 1.4 Para la prestación de servicios por parte del OPERADOR, se necesita el consentimiento previo mediante la aceptación de los términos y condiciones aquí expuestos. Se entiende que si el USUARIO no está de acuerdo con el contenido del mismo se abstendrá de utilizar los servicios del OPERADOR.<br><br> 1.5 En el evento que EL OPERADOR disponga sitios de divulgación, conversación o de opinión, como redes sociales, blogs, chats, imágenes, etc., la información allí publicada será responsabilidad de los usuarios que allí participen, y en ningún momento reflejarán las opiniones, posiciones o recomendaciones del OPERADOR, directivos, ejecutivos o accionistas.<br><br> 1.6 Al registrarse en la plataforma virtual juegosJPS.cr, usted acepta los términos y condiciones publicados en este canal interactivo y las modificaciones o ajustes que IMPERIAL GAMES S.A. realice a los mismos en cualquier momento y sin previa notificación. Todo cambio en los términos y condiciones, debe ser aprobado por el usuario en la plataforma.<br><br> <h3>2. Cuenta de usuario</h3><br>2.1 Usted ostentará la calidad de usuario juegosJPS.cr, una vez la información suministrada en el registro de usuarios sea verificada por nuestros agentes. Para esta validación usted otorga su autorización para que esta sea realizada en diferentes bases de datos de acceso público y privado. La información suministrada será cotejada y verificada para dar el aval de la creación de su cuenta de usuario juegosJPS.cr.<br><br>2.2 El solicitante del registro de creación de una cuenta de usuario juegosJPS.cr, debe ser persona natural, mayor de 18 años, con nacionalidad costarricense o extranjero residenciado en Costa Rica con cedula de extranjería.<br><br>2.3 El registro, navegación y uso de la plataforma juegosJPS.cr es personal. No se permite la suplantación de identidades para la creación de cuentas o la creación de cuentas de usuario en nombre de un tercero. La normatividad de los juegos de suerte y azar exige la creación y correspondencia de una única cuenta de usuario por persona. Toda acción que se compruebe como transgresora de esta regla será sancionada conforme a la normatividad existente y serán elevadas las denuncias o demandas correspondientes a las autoridades competentes.<br><br>2.4 Para el acceso y navegación en los contenidos generales de juegosJPS.cr, no será necesario contar con una cuenta de usuario, este uso es gratuito salvo el costo por conectividad de la red de telecomunicaciones que estará a cargo y de uso exclusivo del USUARIO. No obstante, el acceso a las actividades de juego ofrecidas por el OPERADOR estará condicionado al registro único del USUARIO ante el OPERADOR, quien deberá ingresar todos los campos del formulario de registro con datos válidos para obtener la apertura de cuenta de usuario.<br><br>2.5 El USUARIO que aspire a convertirse en JUGADOR deberá certificar, incluso a posteriori, que la información que pone a disposición del OPERADOR es veraz, exacta y precisa; asimismo es responsable de la actualización de datos, información y documentación necesaria cada vez que éstos sean modificados. Por lo tanto, el USUARIO que se ha registrado y ha obtenido una cuenta de usuario garantiza y responde, en cualquier circunstancia, de la veracidad, exactitud, autenticidad y vigencia de los datos, información y documentación puesta a disposición del OPERADOR.<br><br>2.6 Se efectuará la validación de la identidad del USUARIO, y el OPERADOR podrá solicitar algún dato, información o documento comprobante adicional a efectos de corroborar la información suministrada y de activar, suspender o cancelar las cuentas de usuario, a aquellos USUARIOS cuyos datos, información o documentación no hayan podido ser confirmados. La suspensión o cancelación de una cuenta de usuario implica que el USUARIO de la misma no puede acceder a las actividades de juego ofrecidas por el OPERADOR, sin que ello genere indemnización alguna a favor del USUARIO.<br><br>2.7 El control de verificación de identidades es una facultad expresa del OPERADOR que usted acepta con la creación de la cuenta de usuario. Esta facultad otorga al OPERADOR el poder solicitar Documentos de Soporte de Identidad y Pruebas de Domicilio, en los casos que se evidencien comportamientos inadecuados en el manejo de la cuenta juegosJPS.cr, o cuando la actualización de las cuentas sea necesaria una vez cada año calendario de permanencia en la plataforma como usuario activo o en los casos en que sea necesario validar la titularidad de la cuenta de juego. Lo anterior se realiza con el fin de comprobar la identidad y domicilio del usuario, los cuales son datos de suma relevancia para garantizar la transparencia y la seguridad en el devenir del desarrollo del contrato de juego. <br><br>2.8 VERIFICACIÓN EN TIEMPO REAL: En caso de no ser posible corroborar o si persiste la duda sobre la verificación de identidad del usuario, el OPERADOR se reserva el derecho de efectuar la siguiente validación en tiempo real, la cual constará de los siguientes pasos: Se solicitará una foto tipo selfie en donde el usuario que intenta validarse sostenga un papel manuscrito con la fecha actual, la hora en que se realiza la toma y una palabra clave o código otorgado por el agente de servicio que realiza la validación. Este procedimiento tendrá una caducidad máxima de 30 minutos, ya que dicha validación se sobreentiende hecha en tiempo real. Pasado el anterior plazo la palabra clave o código otorgado perderá vigencia y deberá realizarse un nuevo proceso con una nueva clave o código. PAR 1. En el documento Prueba de Domicilio deberá aparecer el Nombre y Dirección de residencia del usuario, este documento debe tener una fecha inferior a 2 meses, las cuatro esquinas del documento y los datos en él deben ser visibles, el documento deberá ser auténtico y sin modificaciones, EL OPERADOR realizará las validaciones correspondientes para confirmar la autenticidad de la información y en caso de evidenciarse alteraciones o inconsistencias EL OPERADOR se reserva el derecho a cancelar la cuenta del usuario Definitivamente. <br><br>2.9 Solo pueden registrarse personas mayores de edad cumpliendo el proceso de registro para lo cual el usuario se compromete a indexar información completa, verídica y actualizada en el Formulario de Registro. Una persona sólo puede tener una única cuenta de juego activa. No podrán registrase en juegosJPS.cr, realizar actividades de juego, depósitos o retiros en la plataforma ni crear una cuenta de usuario las personas que cumplan al menos una de las siguientes condiciones: Menores de edad. El operador debe verificar la edad del jugador y establecer las restricciones necesarias para evitar que las apuestas sean realizadas por aquellos que no acrediten mayoría de edad. Personas que padezcan enfermedades mentales que hayan sido declaradas interdictos Personal vinculado al operador: aquellos trabajadores que intervengan o puedan influir en el desarrollo de la actividad de juego definidos por el operador. Personas autoexcluidas en la plataforma. <br><br>2.10 La seguridad de sus dispositivos y todas las apuestas, redención de bonos, interacción en redes sociales, log-in, log-out, consultas, depósitos y/o retiros, así como cualquier otra actividad propia del juego, que se realicen desde éstos en la plataforma virtual, son de la entera responsabilidad y cuidado del usuario. <br><br>2.11 De acuerdo con la normatividad que regula la operación de los juegos operados por internet, el OPERADOR siguiendo los procedimientos para la validación y verificación de los datos de identificación de los usuarios, tiene la facultad para denegar, suspender, cancelar o restringir la creación de una cuenta de usuario a cualquier persona, siempre que considere que la información o movimientos de la misma atentan contra las políticas internas del OPERADOR y/o la normatividad legal vigente. <br><br>2.12 No estableceremos ninguna relación de negocios o de cualquier otro tipo, con personas naturales o jurídicas que se encuentren en las listas de sanciones del Consejo De Seguridad De Las Naciones Unidas, ni en las listas de la Oficina de Control de Activos Extranjeros del Departamento del Tesoro de los Estados Unidos de América (OFAC). El Operador se abstendrá de establecer todo tipo de vínculo, con personas naturales o jurídicas de las cuales se tengan dudas fundadas sobre su vinculación con LA/FT/FPADM y la consecuente legalidad de sus actividades, licitud u origen de sus recursos. <br><br>2.13 Las personas que ostenten la calidad de PEP (Persona Expuesta Políticamente), deberán declarar su condición al momento de la apertura de la cuenta de usuario. La continuidad de la cuenta estará sujeta a revisión y aprobación por parte de los estamentos internos del Operador. <br><br>2.14 En la validación de la información suministrada por el usuario, el Operador verificará la existencia de procesos y/o condenas de las siguientes tipologías, sin limitarse a las enunciadas: condenas activas por delitos LA/FT/FPADM, por falsedad material o ideológica en documento público o privado, además de condenas intramurales en curso por la comisión de cualquier delito tipificado en la Ley 599 de 2000. Como política general, estos usuarios serán rechazados del registro inicial o sus cuentas serán canceladas por anulación de contrato.<br><br> <h3>Componentes y estados de las cuentas de usuario</h3><br>1 Toda persona que se registre en juegosJPS.cr creará una cuenta de usuario y una cuenta de juego que se identificará con un ID o número de cuenta de juego.<br><br>2 Nos reservamos el derecho a cancelar el registro o de suspender por precaución la cuenta de usuario de una persona si se encuentra falsedad o error en la información suministrada. El usuario registrado asume toda responsabilidad ante juegosJPS.cr y ante terceras personas, por los daños y perjuicios que pudieren derivarse de la falsedad o error en la información de registro suministrada por el usuario en el canal interactivo.<br><br>3 Mientras se realiza la investigación, juegosJPS.cr se reserva el derecho de suspender por precaución la cuenta de juego de un usuario cuando se sospeche que en ella se realizan operaciones fraudulentas o ilegales y a cancelarla definitivamente si dichas operaciones fraudulentas o ilegales se comprueban.<br><br>4 De igual manera juegosJPS.cr tiene el derecho y la obligación legal de reportar ante las autoridades competentes, cualquier anomalía, fraude o intento de fraude, así como cualquier operación ilegal que llegare a detectar por parte de los usuarios de la plataforma.<br><br>5 Toda la información relacionada con el USUARIO (transacciones, apuestas, premios, etc.) es del interés sólo de dicho apostador. Ninguna persona dentro de la empresa está autorizada a entregar, mencionar, informar y/o divulgar esta información a ningún tercero; salvo bajo los parámetros establecidos en la Ley 1226 de 2008 de Habeas Data.<br><br>6 Nos reservamos el derecho de actuar sobre el estado de las cuentas de usuario, para suspender por precaución y posteriormente cancelar por anulación de contrato en cualquier momento que cualquiera de las siguientes conductas sea detectada:<br><br>a). Si consideramos que el usuario utiliza la plataforma virtual de forma fraudulenta o con fines ilegales o inadecuados para terceros, el operador mismo o el modelo de negocio de la sociedad IMPERIAL GAMES S.A.<br><br>b). Si se comprueba la realización de acciones tendientes a obtener ganancias de forma injusta, esto es, haciendo trampa o aprovechando la buena fe del operador.<br><br>c). Si cualquiera de las anteriores conductas fuese objeto de fuertes sospechas por parte del operador de que están o pueden estar a punto de presentarse con la cuenta del usuario.<br><br><br><br><h3>7 LA CUENTA DE USUARIO juegosJPS.cr PRESENTA LOS SIGUIENTES COMPONENTES PRINCIPALES:</h3><br>a) SALDO CRÉDITOS. Este saldo es el disponible para apostar libremente en el canal interactivo. Se abonará a este saldo el valor de las recargas realizadas por el usuario y los reembolsos o devoluciones por apuestas declaradas como “NO ACCIÓN” y por apuestas anuladas. De manera preferencial se retirará de este saldo el valor de las apuestas realizadas por el jugador. El retiro de los créditos reflejados en el saldo Créditos, estará supeditado a lo indicado en el artículo 3 del Acuerdo 02 de 2019.<br>b) SALDO PREMIOS. Se abonará a este saldo el valor de los premios ganados por el usuario. Se retira de este saldo lo correspondiente a los documentos de retiro cobrados por el usuario. También el sistema retirará de este saldo el valor correspondiente a las apuestas realizadas por el usuario, únicamente cuando este hubiese agotado su SALDO CRÉDITOS disponible para apostar.<br>c) SALDO CRÉDITOS BONOS. A este saldo se abonarán los valores correspondientes a bonificaciones y promocionales ofertados por el canal interactivo a los cuales se hubiese hecho merecedor el USUARIO. Este saldo está disponible para apostar en el canal interactivo pero sujeto a términos de caducidad, prioridad de uso y demás condiciones definidas por el operador, estos bonos bajo ninguna circunstancia podrán ser retirados por el usuario, más las ganancias derivadas del uso de los mismos serán acreditadas en el SALDO PREMIOS de la cuenta de juego.<br>d) BONOS POR LIBERAR. A este saldo se abonarán los valores correspondientes a bonificaciones y promocionales ofertados por el canal interactivo a los cuales se hubiese hecho merecedor el USUARIO, estos bonos estarán sujetos a condiciones específicas que deberán ser cumplidas por el usuario para poder ser acreedor de los mismos y posterior al cumplimiento estos pasarán a ser parte del SALDO CRÉDITO BONOS para ser jugados por el usuario.<br>8 En todo caso una apuesta sólo se pagará afectando uno solo de los tres primeros saldos indicados y la plataforma juegosJPS.cr, guardará información acerca de cuál fue el saldo afectado en la transacción o pago de cada apuesta.<br>9 No se permiten las transferencias de saldo entre cuentas de juego de distintos usuarios.<br><br>"
+            },
+            {
+                "title": "Juego Responsable",
+                "slots": [],
+                "text": "<h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br>"
+            },
+            {
+                "title": "Reglamento de Uso",
+                "slots": [],
+                "text": "<h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br>"
+            },
+            {
+                "title": "Seguridad y Privacidad",
+                "slots": [],
+                "text": "<h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br>"
+            },
+            {
+                "title": "Mi Cuenta",
+                "slots": [],
+                "text": "<h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br><h3>Neque volutpat ac tincidunt vitae</h3><p>Mattis ullamcorper velit sed ullamcorper. Nunc congue nisi vitae suscipit tellus mauris a. Sed odio morbi quis commodo odio aenean sed. Lectus mauris ultrices eros in. Viverra nibh cras pulvinar mattis nunc. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Viverra suspendisse potenti nullam ac tortor. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Dignissim diam quis enim lobortis scelerisque fermentum dui.</p><br><br>"
+            }
+        ]
+    }
+}

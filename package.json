@@ -1,0 +1,26 @@
+{
+    "name": "jps",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack-dev-server",
+        "build": "webpack -p"
+    },
+    "author": "Kon",
+    "license": "MIT",
+    "dependencies": {
+        "easy-soap-request": "^4.0.1",
+        "firebase-key": "^2.0.2",
+        "gsap": "^3.5.1"
+    },
+    "devDependencies": {
+        "css-loader": "*",
+        "style-loader": "*",
+        "html-loader": "*",
+        "webpack": "*",
+        "webpack-cli": "*",
+        "webpack-dev-server": "*"
+    }
+}

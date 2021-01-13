@@ -1,0 +1,15 @@
+.juegoResponsableComponent {
+    width: 80%;
+    height: auto;
+    background-color:var(--content-color);
+    overflow: scroll;
+    margin-top: 30px;
+    margin-left: 10%;
+}
+
+@media screen and (max-width: 600px) {
+    .juegoResponsableComponent {
+        width: 90%;
+        margin-left: 5%;
+    }
+}

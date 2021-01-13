@@ -1,0 +1,200 @@
+.footerComponent {
+    top: 400px;
+    width: 100%;
+    height: auto;
+    background-color:var(--footer-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap:wrap;
+    margin-bottom: 0px;
+}
+
+.footerCol1{
+    margin: 30px 0px 20px 0px;
+    width: 20%;
+}
+
+.footerCol2{
+    margin: 30px 0px 20px 0px;
+    width: 20%;
+}
+
+.footerCol3{
+    margin: 30px 0px 20px 0px;
+    width: 20%;
+}
+
+.footerCol4{
+    margin: 30px 0px 0px 0px;
+    width: 20%;
+    height: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color:rgb(176, 174, 174);
+}
+
+.footerTitle {
+    font-size: 25px;
+    font-weight: bold;
+    color:black;
+    letter-spacing:-1px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    
+}
+
+.footerSubTitle {
+    font-size: 18px;
+    font-weight: bold;
+    color:black;
+    letter-spacing:-1px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    cursor: pointer
+}
+
+.footerSubTitle:hover {
+    color:var( --header-color );
+}
+
+.sitioSeguroImage {
+    width: auto;
+    height: 60px;
+    border-radius: 5px;
+    margin: 0px 20px 5px 20px;
+}
+
+.visaMasterContainerTitle {
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+    letter-spacing:-1px;
+    margin: 20px 0px 5px 20px;
+}
+
+.creditcardsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+
+.creditcards {
+    width: auto;
+    height: 40px;
+    margin: 0px 20px 5px 20px;
+}
+
+.footerCol4Title {
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+    letter-spacing:-1px;
+    margin: 20px 0px 5px 10px;
+}
+
+.footerCol4SubTitle {
+    font-size: 15px;
+    color:black;
+    letter-spacing:-1px;
+    margin: 0px 0px 20px 10px;
+}
+
+.phoneContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.phoneIcon {
+    width: auto;
+    height: 25px;
+    margin: 10px 5px 0px 20px;
+}
+
+.phoneNumberContainer {
+    width:70%;
+    display: flex;
+    flex-direction: column;
+}
+
+.phoneNumber {
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+    letter-spacing:-1px;
+    margin: 0px 0px 3px 10px;
+}
+
+.phoneNumberSubtitle {
+    font-size: 12px;
+    font-weight: bold;
+    color:var( --header-color );
+    letter-spacing:-1px;
+    margin: 0px 0px 20px 10px;
+}
+
+.emailContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: 0px 0px 20px 0px;
+}
+
+.emailIcon {
+    width: auto;
+    height: 25px;
+    margin: 0px 5px 0px 20px;
+}
+
+.emailTitle {
+    font-size: 20px;
+    color:gray;
+    letter-spacing:-1px;
+    margin: 10px 0px 3px 10px;
+}
+
+@media screen and (max-width: 600px) {
+    .footerComponent {
+        margin-bottom: 60px;
+    }
+
+    .footerCol1{
+        width: 80% !important;
+    }
+    
+    .footerCol2{
+        width: 80% !important;
+    }
+    
+    .footerCol3{
+        width: 80% !important;
+    }
+    
+    .footerCol4 {
+        width: 80% !important;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .footerComponent {
+        margin-bottom: 60px;
+    }
+
+    .footerCol1{
+        width: 40%;
+    }
+    
+    .footerCol2{
+        width: 40%;
+    }
+    
+    .footerCol3{
+        width: 40%;
+    }
+    
+    .footerCol4 {
+        width: 40%;
+    }
+}

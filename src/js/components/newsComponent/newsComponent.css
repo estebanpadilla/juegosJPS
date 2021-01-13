@@ -1,0 +1,34 @@
+.newsComponent {
+    width: 100%;
+    background-color:var(--content-color);
+    display: flex;
+    flex-direction: column;
+}
+
+.newsContainer {
+    width: 100%;
+    height: inherit;
+    background-color:var(--content-color);
+    display: flex;
+    flex-direction: row;   
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+.news {
+    width: 50%;
+    height:auto;
+    background-color:var(--content-color);
+}
+
+.newsImage {
+    display:block;
+    margin:auto;
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .news {
+        width: 100%;
+    }
+}

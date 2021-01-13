@@ -1,0 +1,12 @@
+.wzEmailComponent {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.notaDeContrasena {
+    color:var(--forgot-password-color);
+    font-size: 10px;
+}

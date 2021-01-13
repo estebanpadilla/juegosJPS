@@ -1,0 +1,11 @@
+.loaderComponent {
+    width: 100vw;
+    height: 100vh;
+    background-color:var(--footer-color);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 15px;
+}

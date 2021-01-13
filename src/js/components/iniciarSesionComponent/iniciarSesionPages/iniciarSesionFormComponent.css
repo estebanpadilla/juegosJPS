@@ -1,0 +1,26 @@
+.iniciarSesionFormComponent {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.inputWithError {
+    outline: none !important;
+    border-color: red;
+}
+
+.iniciarSesionFormInput {
+    margin-bottom: 5px !important;
+}
+
+.inputErrorMsj {
+    color:red;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.playerPasswordTxt {
+    margin-top: 10px;
+}

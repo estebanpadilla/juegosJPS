@@ -1,0 +1,86 @@
+.sorteoComponent {
+    background-color: var(--main-color);
+    width: 320px;
+    height: 250px;
+    margin: 20px 0px 20px 0px;
+    display: flex;
+    flex-direction:column;
+    position:relative;
+    border-bottom: 1px solid var(--spacer-color);
+}
+
+.sorteoImage {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.priceTitle {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -60px;
+    text-align: center;
+    letter-spacing:-1px;
+}
+
+.price {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 0px;
+    text-align: center;
+    letter-spacing:-1px;
+}
+
+.dateTitle {
+    color: var(--fecha-sorteo-color);
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing:-1px;
+}
+
+.date {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing:-1px;
+    text-align: center;
+}
+
+.time {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing:-1px;
+    text-align: center;
+}
+
+.sorteoButtonContainer {
+    position: absolute;
+    right:0;
+    bottom:0;
+    background-color: var(--main-color);
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+.sorteoButton{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: var(--slotButton2-color);
+    padding: 10px 15px 10px 15px;
+    margin: 10px 0px 0px 0px;
+    cursor: pointer;
+    max-height: 20px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .sorteoComponent {
+        width: 250px;
+        height: 220px;
+    }
+}

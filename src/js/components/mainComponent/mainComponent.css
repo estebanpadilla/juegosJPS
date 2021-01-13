@@ -1,0 +1,6 @@
+.mainComponent {
+    width: 100vw;
+    height: auto; 
+    background-color: var(--main-color);
+    overflow: scroll;
+}

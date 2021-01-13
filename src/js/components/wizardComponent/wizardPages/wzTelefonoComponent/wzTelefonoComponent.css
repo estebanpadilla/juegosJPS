@@ -1,0 +1,108 @@
+.wzTelefonoComponent {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.horizontalContainer {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    margin-top: 20px;
+}
+
+.verticalAreaContainer {
+    height: auto;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-right: 10%;
+}
+
+.verticalPhoneContainer {
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.areaTxt {
+    width: 100%;
+    font-size: 16px;
+    padding: 5px 10px 0px 10px;
+    background-color: #fff;
+    border: 1px solid lightgray;;
+    border-radius: 5px;
+    height: 37px !important;
+}
+
+.phoneTxt {
+    color:gray !important;
+    width: auto;
+}
+
+.conditionsCheck {
+    width: 80%;
+}
+
+.conditionsP {
+    font-size: 14px;
+    color: gray;
+    width: 90%;
+    margin-left: 20px;
+}
+
+.cedulaErrorMsj {
+    color:red;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.password2Txt {
+    
+}
+
+.emailErrorMsj {
+    color:red;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.phoneErrorMsj {
+    color:red;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.passwordErrorMsj {
+    color:red;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.birthdateContainer {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.dateSelect {
+    width: 100% !important;
+}
+
+.dateColContainer {
+    width: 30%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 10px;
+}
